@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+
 });const styles = StyleSheet.create({
   container: {
     flex: 1,
@@ -26,7 +27,8 @@ const styles = StyleSheet.create({
   },
 });//// first commit test
 // first commit test
-
+/
+test
 
 
 
